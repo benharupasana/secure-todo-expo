@@ -19,7 +19,7 @@ Small React Native (Expo) app demonstrating:
 
 3. Run the app 
 
-    - npx expo start a
+    - npx expo start 
     - Press a to launch Android emulator
     - Or scan the QR code with Expo Go on your device
 
